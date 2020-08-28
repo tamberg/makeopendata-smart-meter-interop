@@ -5,13 +5,20 @@ A [make.opendata.ch](https://make.opendata.ch/) [#EnergyHack2020](https://twitte
 [Read your own smart meter](https://hack.opendata.ch/project/466) and [unleash its consumer information interface (CII)](https://hack.opendata.ch/project/582).
 
 ## Team
+* Hermann
 * [@tamberg](https://twitter.com/tamberg)
 * You?
 
 ## Idea
 Provide a "universal" adapter from smart meters to home automation IoT platforms.
 
-### Concept
+### Requirements
+* Minimize configuration
+* Allow a range of smart meters
+* Allow a range of home automation platforms
+* Keep smart meter data in the local network
+
+### Proposed solution
 * Connected device with Web UI
 * Simple information model
 * Serial or M-BUS input
