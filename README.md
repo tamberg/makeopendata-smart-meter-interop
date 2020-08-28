@@ -23,6 +23,11 @@ Provide a "universal" adapter from smart meters to home automation IoT platforms
 * MQTT or HTTP based
 * Template mechanism
 
+### How to get there?
+PoCs, sketched out below as step-by-step instructions with TODOs to be filled in.
+* PoC 1 to get an idea about the complexity of smart meter / IoT platform interfaces.
+* PoC 2 to show what a simple information model and templating mechanism could look like.
+
 ### Open questions
 * Can this be simpler than using a home automation IoT platform specific plugin?
 
