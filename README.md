@@ -35,8 +35,8 @@ Proof of Concept (PoC) prototypes, sketched out below as step-by-step instructio
 
 ## PoC 0: Smart Meter, Serial USB
 ### Read data from the smart meter
-* Connect your computer to the smart meter via Serial
-* Get data on a serial console, e.g. screen or PuTTY
+* TODO: Connect your computer to the smart meter via Serial
+* TODO: Get data on a serial console, e.g. screen or PuTTY
 
 ## PoC 1: Raspberry Pi & Node-RED
 ### Get the hardware
