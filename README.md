@@ -20,7 +20,7 @@ Provide a "universal" adapter from smart meters to home automation IoT platforms
 ## PoC 1: Raspberry Pi & Node-RED
 ### Get the hardware
 * https://www.raspberrypi.org/products/raspberry-pi-3-model-b/
-* https://thepihut.com/products/modmypi-serial-hat-rs232 (depends on smart meter)
+* https://thepihut.com/products/modmypi-serial-hat-rs232
 * Smart Meter (available at Hackday? See [challenge #466](https://hack.opendata.ch/project/466))
 ### Set up the software
 * On your computer, install https://www.openhab.org/
