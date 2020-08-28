@@ -23,6 +23,9 @@ Provide a "universal" adapter from smart meters to home automation IoT platforms
 * MQTT or HTTP client
 * Template mechanism
 
+### Open questions
+* Can this be simpler than using a home automation IoT platform specific plugin?
+
 ## PoC 1: Raspberry Pi & Node-RED
 ### Get the hardware
 * https://www.raspberrypi.org/products/raspberry-pi-3-model-b/
