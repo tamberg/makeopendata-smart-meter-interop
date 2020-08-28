@@ -92,6 +92,8 @@ Proof of Concept (PoC) prototypes, sketched out below as step-by-step instructio
 
 ### M-Bus Adapter
 * https://zeta-eng.ch/produkte/interfaces/zeta-usb-interfaces/m-bus-slave/
+* https://zeta-eng.ch/fileadmin/zeta/images/PDF%20Dateien/ZETA_USB_Interfaces_-_Treiberinstallation.pdf (Serial via USB)
+* https://m-bus.com/documentation-wired/04-physical-layer
 
 ## License
 * Conceptual work is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/).
