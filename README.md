@@ -17,7 +17,7 @@ Provide a "universal" adapter from smart meters to home automation IoT platforms
 * MQTT or HTTP based
 * Template mechanism
 
-## PoC 1: Raspberry Pi, Serial & Node-RED
+## PoC 1: Raspberry Pi & Node-RED
 ### Get the hardware
 * https://www.raspberrypi.org/products/raspberry-pi-3-model-b/
 * https://thepihut.com/products/modmypi-serial-hat-rs232 (depends on smart meter)
@@ -32,7 +32,7 @@ Provide a "universal" adapter from smart meters to home automation IoT platforms
 ### Provide a Web UI to configure templates
 * https://nodered.org/ via https://yaler.net/
 
-## PoC 2: Arduino, ModBUS & MQTT
+## PoC 2: Arduino & MQTT
 ### Get the hardware
 * TODO
 ### Set up the software
