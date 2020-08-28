@@ -13,7 +13,7 @@ Provide a "universal" adapter from smart meters to home automation IoT platforms
 ### Requirements
 * Minimize configuration
 * Allow a range of smart meters
-* Allow a range of home automation platforms
+* Allow a range of home automation IoT platforms
 * Keep smart meter data in the local network
 
 ### Proposed solution
