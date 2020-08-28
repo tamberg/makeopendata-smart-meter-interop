@@ -86,3 +86,7 @@ Proof of Concept (PoC) prototypes, sketched out below as step-by-step instructio
 ### Smart Meters
 * [https://icube.ch/DLMSSurvivalKit/dsk1.html](https://icube.ch/DLMSSurvivalKit/dsk1.html)
 * [https://www.netbeheernederland.nl/_upload/Files/Slimme_meter_15_a727fce1f1.pdf](https://www.netbeheernederland.nl/_upload/Files/Slimme_meter_15_a727fce1f1.pdf)
+
+## License
+* Conceptual work is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/).
+* Source code is licensed under the [MIT license](https://tamberg.mit-license.org/).
