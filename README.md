@@ -17,8 +17,11 @@ Provide a "universal" adapter from smart meters to home automation IoT platforms
 * MQTT or HTTP based
 * Template mechanism
 
-## PoC 1
-* 
+## PoC 1: Raspberry Pi & Node-RED
+* Get hardware
+    * https://www.raspberrypi.org/products/raspberry-pi-3-model-b/
+    * https://thepihut.com/products/modmypi-serial-hat-rs232
+    * Smart Meter
 * Read data from a smart meter
     * https://flows.nodered.org/node/node-red-contrib-smartmeter
 * Publish data to the OpenHAB platform
