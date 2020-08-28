@@ -27,8 +27,8 @@ Provide a "universal" adapter from smart meters to home automation IoT platforms
 ### How to get there?
 Proof of Concept (PoC) prototypes, sketched out below as step-by-step instructions with TODOs to be filled in.
 * [PoC 0](#poc-0-smart-meter-serial-usb) to get an idea about how the smart meter interface works at all.
-* [PoC 1](#poc-1-raspberry-pi-serial--node-red) to get an idea about the complexity of smart meter / IoT platform interfaces.
-* [PoC 2](#poc-2-arduino-modbus--mqtt) to show what a simple information model and templating mechanism could look like.
+* [PoC 1](#poc-1-raspberry-pi--node-red) to get an idea about the complexity of smart meter / IoT platform interfaces.
+* [PoC 2](#poc-2-esp32--mqtt) to show what a simple information model and templating mechanism could look like.
 
 ### Open questions
 * Can this be simpler than using a home automation IoT platform specific plugin?
@@ -38,7 +38,7 @@ Proof of Concept (PoC) prototypes, sketched out below as step-by-step instructio
 * Connect your computer to the smart meter via Serial
 * Get data on a serial console, e.g. screen or PuTTY
 
-## PoC 1: Raspberry Pi, Serial & Node-RED
+## PoC 1: Raspberry Pi & Node-RED
 ### Get the hardware
 * https://www.raspberrypi.org/products/raspberry-pi-3-model-b/
 * https://thepihut.com/products/modmypi-serial-hat-rs232
@@ -53,9 +53,10 @@ Proof of Concept (PoC) prototypes, sketched out below as step-by-step instructio
 ### Publish data to the OpenHAB platform
 * TODO: e.g. https://flows.nodered.org/node/node-red-contrib-openhab2
 
-## PoC 2: Arduino, Modbus & MQTT
+## PoC 2: ESP32 & MQTT
 ### Get the hardware
-* TODO: Arduino shield with RJ485?
+* https://www.adafruit.com/product/3405
+* TODO: FeatherWing Serial, RJ485 or Ethernet adapter?
 ### Set up the software
 * TODO: implement firmware .ino
 * TODO: define simple infomration model
@@ -76,6 +77,7 @@ Proof of Concept (PoC) prototypes, sketched out below as step-by-step instructio
 * http://www.tamberg.org/fhnw/2019/hs/IoT10RuleBasedIntegration.pdf
 
 ### Hardware
+* https://learn.adafruit.com/adafruit-huzzah32-esp32-feather
 * https://thepihut.com/blogs/raspberry-pi-tutorials/how-to-use-the-modmypi-serial-hat
 
 ### Home Automation
