@@ -36,13 +36,14 @@ Provide a "universal" adapter from smart meters to home automation IoT platforms
 ### Get the hardware
 * TODO
 ### Set up the software
-* TODO
+* TODO: implement .ino
+* mqtts://test.mosquitto.org/
 ### Open the configuration Web UI
-* TODO
+* TODO: implement Web UI, template mechanism
 ### Read data from the smart meter
-* TODO
+* https://www.arduino.cc/en/ArduinoModbus/ArduinoModbus
 ### Publish data to any MQTT broker
-* TODO
+* https://www.arduino.cc/reference/en/libraries/mqtt-client/
 
 ## Resources
 ### Hardware
