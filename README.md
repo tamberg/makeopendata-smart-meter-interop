@@ -94,10 +94,13 @@ Proof of Concept (PoC) prototypes, sketched out below as step-by-step instructio
 * [https://icube.ch/DLMSSurvivalKit/dsk1.html](https://icube.ch/DLMSSurvivalKit/dsk1.html)
 * [https://www.netbeheernederland.nl/_upload/Files/Slimme_meter_15_a727fce1f1.pdf](https://www.netbeheernederland.nl/_upload/Files/Slimme_meter_15_a727fce1f1.pdf)
 
-### M-Bus Adapter
+### M-Bus
 * https://zeta-eng.ch/produkte/interfaces/zeta-usb-interfaces/m-bus-slave/
 * https://zeta-eng.ch/fileadmin/zeta/images/PDF%20Dateien/ZETA_USB_Interfaces_-_Treiberinstallation.pdf (Serial via USB)
 * https://m-bus.com/documentation-wired/04-physical-layer
+
+### Optical
+* https://forum.arduino.cc/index.php?topic=119247.0
 
 ## License
 * Conceptual work is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/).
