@@ -18,5 +18,9 @@ Provide a "universal" adapter from smart meters to home automation IoT platforms
 * Template mechanism
 
 ## Resources
+### Home Automation
+* https://www.openhab.org/addons/
+
+### Smart Meters
 * [https://icube.ch/DLMSSurvivalKit/dsk1.html](https://icube.ch/DLMSSurvivalKit/dsk1.html)
 * [https://www.netbeheernederland.nl/_upload/Files/Slimme_meter_15_a727fce1f1.pdf](https://www.netbeheernederland.nl/_upload/Files/Slimme_meter_15_a727fce1f1.pdf)
