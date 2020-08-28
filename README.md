@@ -44,6 +44,7 @@ Provide a "universal" adapter from smart meters to home automation IoT platforms
 ### Set up the software
 * TODO: implement firmware .ino
 * TODO: define simple infomration model
+* TODO: develop moustache-like templating mechanism
 * TODO: On your computer, e.g. mqtts://test.mosquitto.org/
 ### Open the configuration Web UI
 * TODO: https://LOCAL_IP/
