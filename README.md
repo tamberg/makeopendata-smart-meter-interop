@@ -26,11 +26,17 @@ Provide a "universal" adapter from smart meters to home automation IoT platforms
 
 ### How to get there?
 Proof of Concept (PoC) prototypes, sketched out below as step-by-step instructions with TODOs to be filled in.
+* [PoC 0](#poc-1-raspberry-pi-serial--node-red) to get an idea about the complexity of smart meter / IoT platform interfaces.
 * [PoC 1](#poc-1-raspberry-pi-serial--node-red) to get an idea about the complexity of smart meter / IoT platform interfaces.
 * [PoC 2](#poc-2-arduino-modbus--mqtt) to show what a simple information model and templating mechanism could look like.
 
 ### Open questions
 * Can this be simpler than using a home automation IoT platform specific plugin?
+
+## PoC 0: Smart Meter, Serial USB
+### Read data from the smart meter
+* Connect your computer to the smart meter via Serial
+* Get data on a serial console, e.g. screen or PuTTY
 
 ## PoC 1: Raspberry Pi, Serial & Node-RED
 ### Get the hardware
