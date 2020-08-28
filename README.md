@@ -32,26 +32,30 @@ Provide a "universal" adapter from smart meters to home automation IoT platforms
 * On your computer, install https://www.openhab.org/
 * On the Pi, install https://nodered.org/
 ### Open the configuration Web UI
-* https://nodered.org/ via https://yaler.net/
+* TODO: https://LOCAL_IP/ Node-RED instance, e.g. via https://yaler.net/
 ### Read data from the smart meter
-* https://flows.nodered.org/node/node-red-contrib-smartmeter
+* TODO: e.g. https://flows.nodered.org/node/node-red-contrib-smartmeter
 ### Publish data to the OpenHAB platform
-* https://flows.nodered.org/node/node-red-contrib-openhab2
+* TODO: e.g. https://flows.nodered.org/node/node-red-contrib-openhab2
 
 ## PoC 2: Arduino & MQTT
 ### Get the hardware
 * TODO
 ### Set up the software
-* TODO: implement .ino
-* mqtts://test.mosquitto.org/
+* TODO: implement firmware .ino
+* TODO: On your computer, e.g. mqtts://test.mosquitto.org/
 ### Open the configuration Web UI
-* TODO: implement Web UI, template mechanism
+* TODO: https://LOCAL_IP/
 ### Read data from the smart meter
 * https://www.arduino.cc/en/ArduinoModbus/ArduinoModbus
 ### Publish data to any MQTT broker
 * https://www.arduino.cc/reference/en/libraries/mqtt-client/
 
 ## Resources
+### IoT
+* http://www.tamberg.org/fhnw/2019/hs/IoT07MessagingProtocols.pdf
+* http://www.tamberg.org/fhnw/2019/hs/IoT10RuleBasedIntegration.pdf
+
 ### Hardware
 * https://thepihut.com/blogs/raspberry-pi-tutorials/how-to-use-the-modmypi-serial-hat
 
