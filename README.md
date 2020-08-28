@@ -1,5 +1,5 @@
 # Make.OpenData.ch Smart Meter Interop
-A [make.opendata.ch](https://make.opendata.ch/) [Energy Hackdays 2020](https://hack.opendata.ch/event/31) ([#EnergyHack2020](https://twitter.com/hashtag/energyhack2020)) project.
+A [make.opendata.ch](https://make.opendata.ch/), [Energy Hackdays 2020](https://hack.opendata.ch/event/31) ([#EnergyHack2020](https://twitter.com/hashtag/energyhack2020)) project.
 
 ## Challenge
 [Read your own smart meter](https://hack.opendata.ch/project/466) and [unleash its consumer information interface (CII)](https://hack.opendata.ch/project/582).
