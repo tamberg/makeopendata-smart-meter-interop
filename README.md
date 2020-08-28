@@ -71,19 +71,23 @@ Proof of Concept (PoC) prototypes, sketched out below as step-by-step instructio
 * TODO: insert variable values into topic / payload tempate
 * e.g. https://www.arduino.cc/reference/en/libraries/mqtt-client/
 
-## Resources
+## Software Resources
 ### IoT
 * http://www.tamberg.org/fhnw/2019/hs/IoT07MessagingProtocols.pdf
 * http://www.tamberg.org/fhnw/2019/hs/IoT10RuleBasedIntegration.pdf
 
-### Hardware
-* https://learn.adafruit.com/adafruit-huzzah32-esp32-feather
-* https://thepihut.com/blogs/raspberry-pi-tutorials/how-to-use-the-modmypi-serial-hat
-
 ### Home Automation
 * https://www.openhab.org/addons/
 
+## Hardware Resources
+### ESP32
+* https://learn.adafruit.com/adafruit-huzzah32-esp32-feather
+
+### Raspberry Pi
+* https://thepihut.com/blogs/raspberry-pi-tutorials/how-to-use-the-modmypi-serial-hat
+
 ### Smart Meters
+* https://www.landisgyr.com/webfoo/wp-content/uploads/2012/09/D000028191_E450_f_en.pdf
 * [https://icube.ch/DLMSSurvivalKit/dsk1.html](https://icube.ch/DLMSSurvivalKit/dsk1.html)
 * [https://www.netbeheernederland.nl/_upload/Files/Slimme_meter_15_a727fce1f1.pdf](https://www.netbeheernederland.nl/_upload/Files/Slimme_meter_15_a727fce1f1.pdf)
 
