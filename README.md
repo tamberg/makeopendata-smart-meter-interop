@@ -14,7 +14,7 @@ Provide a "universal" adapter from smart meters to home automation IoT platforms
 * Connected device with Web UI
 * Simple information model
 * Serial or M-BUS input
-* MQTT or HTTP client
+* MQTT or HTTP based
 * Template mechanism
 
 ## Resources
