@@ -79,6 +79,10 @@ Proof of Concept (PoC) prototypes, sketched out below as step-by-step instructio
 ### Home Automation
 * https://www.openhab.org/addons/
 
+### Arduino
+* https://store.arduino.cc/arduino-mkr-485-shield
+* https://github.com/roarfred/MBusMqttLogger
+
 ### ESP32
 * https://learn.adafruit.com/adafruit-huzzah32-esp32-feather
 
