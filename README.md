@@ -71,7 +71,7 @@ Proof of Concept (PoC) prototypes, sketched out below as step-by-step instructio
 * TODO: insert variable values into topic / payload tempate
 * e.g. https://www.arduino.cc/reference/en/libraries/mqtt-client/
 
-## Resources (Software)
+## Resources
 ### IoT
 * http://www.tamberg.org/fhnw/2019/hs/IoT07MessagingProtocols.pdf
 * http://www.tamberg.org/fhnw/2019/hs/IoT10RuleBasedIntegration.pdf
@@ -79,7 +79,6 @@ Proof of Concept (PoC) prototypes, sketched out below as step-by-step instructio
 ### Home Automation
 * https://www.openhab.org/addons/
 
-## Resources (Hardware)
 ### ESP32
 * https://learn.adafruit.com/adafruit-huzzah32-esp32-feather
 
