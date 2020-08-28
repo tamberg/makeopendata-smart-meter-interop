@@ -77,7 +77,7 @@ Proof of Concept (PoC) prototypes, sketched out below as step-by-step instructio
 * http://www.tamberg.org/fhnw/2019/hs/IoT07MessagingProtocols.pdf
 * http://www.tamberg.org/fhnw/2019/hs/IoT10RuleBasedIntegration.pdf
 
-### Home Automation
+### Home automation
 * https://www.openhab.org/addons/
 
 ### Arduino
@@ -90,7 +90,7 @@ Proof of Concept (PoC) prototypes, sketched out below as step-by-step instructio
 ### Raspberry Pi
 * https://thepihut.com/blogs/raspberry-pi-tutorials/how-to-use-the-modmypi-serial-hat
 
-### Smart Meters
+### Smart meters
 * https://www.landisgyr.com/webfoo/wp-content/uploads/2012/09/D000028191_E450_f_en.pdf
 * [https://icube.ch/DLMSSurvivalKit/dsk1.html](https://icube.ch/DLMSSurvivalKit/dsk1.html)
 * [https://www.netbeheernederland.nl/_upload/Files/Slimme_meter_15_a727fce1f1.pdf](https://www.netbeheernederland.nl/_upload/Files/Slimme_meter_15_a727fce1f1.pdf)
