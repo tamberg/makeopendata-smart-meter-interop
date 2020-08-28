@@ -10,8 +10,9 @@ A [make.opendata.ch](https://make.opendata.ch/) [#EnergyHack2020](https://twitte
 ## Idea
 Provide a universal<sup>*</sup> adapter from smart meters to home automation IoT platforms.
 
-* Hardware adapter with Web UI
+* Connected device with Web UI
 * Simple information model
+* Serial or M-BUS input
 * MQTT or HTTP client
 * Template mechanism
 
