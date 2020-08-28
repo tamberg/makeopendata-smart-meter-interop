@@ -8,15 +8,13 @@ A [make.opendata.ch](https://make.opendata.ch/) [#EnergyHack2020](https://twitte
 [@tamberg](https://twitter.com/tamberg)
 
 ## Idea
-Provide a universal<sup>*</sup> adapter from smart meters to home automation IoT platforms.
+Provide a "universal" adapter from smart meters to home automation IoT platforms.
 
 * Connected device with Web UI
 * Simple information model
 * Serial or M-BUS input
 * MQTT or HTTP client
 * Template mechanism
-
-<sup>*</sup>as far as possible.
 
 ## Resources
 * [https://icube.ch/DLMSSurvivalKit/dsk1.html](https://icube.ch/DLMSSurvivalKit/dsk1.html)
