@@ -20,13 +20,13 @@ Provide a "universal" adapter from smart meters to home automation IoT platforms
 * Connected device with Web UI
 * Simple information model
 * Serial or Ethernet input
-* MQTT or HTTP client
+* MQTT or HTTP based
 * Template mechanism
 
 ### Open questions
 * Can this be simpler than using a home automation IoT platform specific plugin?
 
-## PoC 1: Raspberry Pi & Node-RED
+## PoC 1: Raspberry Pi, Serial & Node-RED
 ### Get the hardware
 * https://www.raspberrypi.org/products/raspberry-pi-3-model-b/
 * https://thepihut.com/products/modmypi-serial-hat-rs232
@@ -41,9 +41,9 @@ Provide a "universal" adapter from smart meters to home automation IoT platforms
 ### Publish data to the OpenHAB platform
 * TODO: e.g. https://flows.nodered.org/node/node-red-contrib-openhab2
 
-## PoC 2: Arduino & MQTT
+## PoC 2: Arduino, Modbus & MQTT
 ### Get the hardware
-* TODO
+* TODO: Arduino shield with RJ485?
 ### Set up the software
 * TODO: implement firmware .ino
 * TODO: define simple infomration model
