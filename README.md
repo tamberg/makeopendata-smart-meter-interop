@@ -12,6 +12,8 @@ Hermann and [@tamberg](https://twitter.com/tamberg).
 ## Idea
 Provide a "universal" adapter from smart meters to home automation IoT platforms.
 
+<img src="interop-gateway.png">
+
 ### Requirements
 * Physical adapter
 * Minimal configuration, Web UI
