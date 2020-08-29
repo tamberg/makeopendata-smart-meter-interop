@@ -40,7 +40,7 @@ Proof of Concept (PoC) prototypes, sketched out below as step-by-step instructio
 
 ## PoC 0: Smart Meter, Serial USB
 ### Get the hardware
-* Smart Meter (available at Hackday? See [challenge #466](https://hack.opendata.ch/project/466))
+* Smart Meter (available at Hackday, see [challenge #466](https://hack.opendata.ch/project/466))
 ### Read data from the smart meter
 * TODO: Connect your computer to the smart meter via Serial
   * https://icube.ch/DLMSSurvivalKit/params.gif
@@ -50,7 +50,7 @@ Proof of Concept (PoC) prototypes, sketched out below as step-by-step instructio
 ### Get the hardware
 * https://www.raspberrypi.org/products/raspberry-pi-3-model-b/
 * https://thepihut.com/products/modmypi-serial-hat-rs232 (if no USB Serial)
-* Smart Meter (available at Hackday? See [challenge #466](https://hack.opendata.ch/project/466))
+* Smart Meter (available at Hackday, see [challenge #466](https://hack.opendata.ch/project/466))
 ### Set up the software
 * On your computer, install https://www.openhab.org/
 * On the Pi, install https://nodered.org/
