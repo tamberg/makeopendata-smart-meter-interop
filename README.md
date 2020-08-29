@@ -102,6 +102,7 @@ Proof of Concept (PoC) prototypes, sketched out below as step-by-step instructio
 
 ### Optical
 * https://forum.arduino.cc/index.php?topic=119247.0
+* https://en.wikipedia.org/wiki/High-Level_Data_Link_Control
 
 ## License
 * Conceptual work is licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/).
