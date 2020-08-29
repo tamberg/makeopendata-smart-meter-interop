@@ -33,6 +33,7 @@ Proof of Concept (PoC) prototypes, sketched out below as step-by-step instructio
 * [PoC 2](#poc-2-arduino--mqtt) to show what a simple information model and templating mechanism could look like.
 
 ### Open questions
+* Can any (custom) library implementing DLMS (https://www.dlms.com/) be licensed as open source?
 * Can this be simpler than using a home automation IoT platform specific plugin?
 
 ## PoC 0: Smart Meter, Serial USB
