@@ -30,7 +30,7 @@ Provide a "universal" adapter from smart meters to home automation IoT platforms
 Proof of Concept (PoC) prototypes, sketched out below as step-by-step instructions with TODOs to be filled in.
 * [PoC 0](#poc-0-smart-meter-serial-usb) to get an idea about how the smart meter interface works at all.
 * [PoC 1](#poc-1-raspberry-pi--node-red) to get an idea about the complexity of smart meter / IoT platform interfaces.
-* [PoC 2](#poc-2-esp32--mqtt) to show what a simple information model and templating mechanism could look like.
+* [PoC 2](#poc-2-arduino--mqtt) to show what a simple information model and templating mechanism could look like.
 
 ### Open questions
 * Can this be simpler than using a home automation IoT platform specific plugin?
@@ -59,10 +59,10 @@ Proof of Concept (PoC) prototypes, sketched out below as step-by-step instructio
 ### Publish data to the OpenHAB platform
 * TODO: e.g. https://flows.nodered.org/node/node-red-contrib-openhab2
 
-## PoC 2: ESP32 & MQTT
+## PoC 2: Arduino & MQTT
 ### Get the hardware
-* https://www.adafruit.com/product/3405
-* TODO: FeatherWing Serial, RJ485 or Ethernet adapter?
+* e.g. https://store.arduino.cc/arduino-mkr-wifi-1010
+* and https://store.arduino.cc/arduino-mkr-485-shield
 ### Set up the software
 * TODO: implement firmware .ino
 * TODO: define simple infomration model
