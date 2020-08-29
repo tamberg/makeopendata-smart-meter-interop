@@ -92,8 +92,11 @@ Proof of Concept (PoC) prototypes, sketched out below as step-by-step instructio
 
 ### Smart meters
 * https://www.landisgyr.com/webfoo/wp-content/uploads/2012/09/D000028191_E450_f_en.pdf
-* [https://icube.ch/DLMSSurvivalKit/dsk1.html](https://icube.ch/DLMSSurvivalKit/dsk1.html)
 * [https://www.netbeheernederland.nl/_upload/Files/Slimme_meter_15_a727fce1f1.pdf](https://www.netbeheernederland.nl/_upload/Files/Slimme_meter_15_a727fce1f1.pdf)
+
+### DLMS
+* [https://icube.ch/DLMSSurvivalKit/dsk1.html](https://icube.ch/DLMSSurvivalKit/dsk1.html)
+* https://www.dlms.com/
 
 ### M-Bus
 * https://zeta-eng.ch/produkte/interfaces/zeta-usb-interfaces/m-bus-slave/
