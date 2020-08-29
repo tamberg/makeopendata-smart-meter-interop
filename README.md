@@ -14,6 +14,8 @@ Provide a "universal" adapter from smart meters to home automation IoT platforms
 
 <img src="../../blob/master/interop-gateway.png" width="540">
 
+<img src="../../blob/master/integration-points.png" width="540">
+
 ### Requirements
 * Physical adapter
 * Minimal configuration, Web UI
