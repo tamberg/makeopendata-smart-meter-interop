@@ -92,9 +92,6 @@ Proof of Concept (PoC) prototypes, sketched out below as step-by-step instructio
 * https://store.arduino.cc/arduino-mkr-485-shield
 * https://github.com/roarfred/MBusMqttLogger
 
-### ESP32
-* https://learn.adafruit.com/adafruit-huzzah32-esp32-feather
-
 ### Raspberry Pi
 * https://thepihut.com/blogs/raspberry-pi-tutorials/how-to-use-the-modmypi-serial-hat
 
