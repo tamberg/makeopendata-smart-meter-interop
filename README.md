@@ -34,6 +34,8 @@ Proof of Concept (PoC) prototypes, sketched out below as step-by-step instructio
 * Can this be simpler than using a home automation IoT platform specific plugin?
 
 ## PoC 0: Smart Meter, Serial USB
+### Get the hardware
+* Smart Meter (available at Hackday? See [challenge #466](https://hack.opendata.ch/project/466))
 ### Read data from the smart meter
 * TODO: Connect your computer to the smart meter via Serial
   * https://icube.ch/DLMSSurvivalKit/params.gif
@@ -42,7 +44,7 @@ Proof of Concept (PoC) prototypes, sketched out below as step-by-step instructio
 ## PoC 1: Raspberry Pi & Node-RED
 ### Get the hardware
 * https://www.raspberrypi.org/products/raspberry-pi-3-model-b/
-* https://thepihut.com/products/modmypi-serial-hat-rs232
+* https://thepihut.com/products/modmypi-serial-hat-rs232 (if no USB Serial)
 * Smart Meter (available at Hackday? See [challenge #466](https://hack.opendata.ch/project/466))
 ### Set up the software
 * On your computer, install https://www.openhab.org/
@@ -51,6 +53,7 @@ Proof of Concept (PoC) prototypes, sketched out below as step-by-step instructio
 * TODO: https://LOCAL_IP/ Node-RED instance, e.g. via https://yaler.net/
 ### Read data from the smart meter
 * TODO: e.g. https://flows.nodered.org/node/node-red-contrib-smartmeter
+* TODO: or a custom node based on https://icube.ch/demo_projects.html
 ### Publish data to the OpenHAB platform
 * TODO: e.g. https://flows.nodered.org/node/node-red-contrib-openhab2
 
