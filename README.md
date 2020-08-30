@@ -89,6 +89,7 @@ Proof of Concept (PoC) prototypes, sketched out below as step-by-step instructio
 
 ### Home automation
 * https://www.openhab.org/addons/
+* https://www.openhab.org/addons/bindings/mqtt/
 
 ### Arduino
 * https://store.arduino.cc/arduino-mkr-485-shield
