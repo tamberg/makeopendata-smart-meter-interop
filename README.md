@@ -110,6 +110,7 @@ Proof of Concept (PoC) prototypes, sketched out below as step-by-step instructio
 * [https://icube.ch/DLMSSurvivalKit/dsk1.html](https://icube.ch/DLMSSurvivalKit/dsk1.html)
 * https://www.dlms.com/news-new-blue-book-and-green-book (Standard Specification)
 * https://www.dlms.com/
+* https://github.com/Gurux/Gurux.DLMS.cpp
 
 ### M-Bus
 * https://zeta-eng.ch/produkte/interfaces/zeta-usb-interfaces/m-bus-slave/
