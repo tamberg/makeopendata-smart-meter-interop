@@ -94,6 +94,7 @@ Proof of Concept (PoC) prototypes, sketched out below as step-by-step instructio
 
 ### IoT platforms
 * https://thingsboard.io/smart-metering/
+* https://github.com/tamberg/fhnw-iot/wiki/IoT-Platforms
 
 ### Home automation
 * https://www.openhab.org/docs/
