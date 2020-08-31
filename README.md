@@ -80,6 +80,7 @@ Proof of Concept (PoC) prototypes, sketched out below as step-by-step instructio
 ### Open the configuration Web UI
 * TODO: https://LOCAL_IP/
 ### Read data from the smart meter
+* TODO: learn relevant parts of DLMS
 * TODO: read variable values from smart meter
 * e.g. https://www.arduino.cc/en/ArduinoModbus/ArduinoModbus
 ### Publish data to any MQTT broker
