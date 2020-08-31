@@ -104,6 +104,7 @@ Proof of Concept (PoC) prototypes, sketched out below as step-by-step instructio
 * https://github.com/aselviar/cii_read_your_sm
 * https://volkszaehler.org/
 * https://github.com/volkszaehler
+* https://www.netzburgenland.at/kundenservice/smart-metering/smart-metering/kundenschnittstelle.html
 
 ### DLMS
 * [https://icube.ch/DLMSSurvivalKit/dsk1.html](https://icube.ch/DLMSSurvivalKit/dsk1.html)
