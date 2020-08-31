@@ -74,7 +74,7 @@ Proof of Concept (PoC) prototypes, sketched out below as step-by-step instructio
 * and https://store.arduino.cc/arduino-mkr-485-shield
 ### Set up the software
 * TODO: implement firmware .ino
-* TODO: define simple infomration model
+* TODO: define simple information model
 * TODO: develop moustache-like templating mechanism
 * TODO: On your computer, e.g. mqtts://test.mosquitto.org/
 ### Open the configuration Web UI
