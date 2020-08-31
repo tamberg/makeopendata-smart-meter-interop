@@ -98,7 +98,7 @@ Proof of Concept (PoC) prototypes, sketched out below as step-by-step instructio
 * https://www.openhab.org/docs/configuration/restdocs.html
 * https://github.com/openhab/openhab-addons
 * https://github.com/openhab/openhab-addons/tree/2.5.x/bundles/org.openhab.binding.mqtt.generic
-* https://github.com/openhab/openhab-addons/tree/2.5.x/bundles/org.openhab.binding.smartmeter
+* https://github.com/openhab/openhab-addons/tree/2.5.x/bundles/org.openhab.binding.smartmeter (Serial)
 
 ### Arduino
 * https://store.arduino.cc/arduino-mkr-485-shield
