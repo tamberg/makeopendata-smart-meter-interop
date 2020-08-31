@@ -16,6 +16,10 @@ Provide a "universal" adapter from smart meters to home automation IoT platforms
 
 <img src="../../blob/master/integration-points.png" width="540">
 
+<img src="../../blob/master/http-push-pull.png" width="540">
+
+<img src="../../blob/master/mqtt-builtin-generic.png" width="540">
+
 ### Requirements
 * Physical adapter
 * Minimal configuration, Web UI
@@ -70,12 +74,13 @@ Proof of Concept (PoC) prototypes, sketched out below as step-by-step instructio
 * and https://store.arduino.cc/arduino-mkr-485-shield
 ### Set up the software
 * TODO: implement firmware .ino
-* TODO: define simple infomration model
+* TODO: define simple information model
 * TODO: develop moustache-like templating mechanism
 * TODO: On your computer, e.g. mqtts://test.mosquitto.org/
 ### Open the configuration Web UI
 * TODO: https://LOCAL_IP/
 ### Read data from the smart meter
+* TODO: learn relevant parts of DLMS
 * TODO: read variable values from smart meter
 * e.g. https://www.arduino.cc/en/ArduinoModbus/ArduinoModbus
 ### Publish data to any MQTT broker
@@ -89,6 +94,7 @@ Proof of Concept (PoC) prototypes, sketched out below as step-by-step instructio
 
 ### IoT platforms
 * https://thingsboard.io/smart-metering/
+* https://github.com/tamberg/fhnw-iot/wiki/IoT-Platforms
 
 ### Home automation
 * https://www.openhab.org/docs/
@@ -117,9 +123,11 @@ Proof of Concept (PoC) prototypes, sketched out below as step-by-step instructio
 
 ### DLMS
 * [https://icube.ch/DLMSSurvivalKit/dsk1.html](https://icube.ch/DLMSSurvivalKit/dsk1.html)
+* https://icube.ch/demo_projects.html
+* https://icube.ch/demo_projects/java/dlms_java_demo.zip (includes proprietary DLMS Library)
 * https://www.dlms.com/news-new-blue-book-and-green-book (Standard Specification)
 * https://www.dlms.com/
-* https://github.com/Gurux/Gurux.DLMS.cpp
+* https://github.com/Gurux/Gurux.DLMS.cpp (licensed under GPL v2.0)
 
 ### M-Bus
 * https://zeta-eng.ch/produkte/interfaces/zeta-usb-interfaces/m-bus-slave/
