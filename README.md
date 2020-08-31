@@ -91,6 +91,7 @@ Proof of Concept (PoC) prototypes, sketched out below as step-by-step instructio
 * https://thingsboard.io/smart-metering/
 
 ### Home automation
+* https://www.openhab.org/docs/
 * https://www.openhab.org/addons/
 * https://www.openhab.org/addons/bindings/mqtt/
 
