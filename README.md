@@ -38,7 +38,7 @@ Proof of Concept (PoC) prototypes, sketched out below as step-by-step instructio
 
 ### Open questions
 * Can any (custom) library implementing DLMS (https://www.dlms.com/) be licensed as open source?
-* Can a physical adapter be simpler than using a home automation IoT platform specific plugin?
+* Can a "universal" adapter be simpler than using a home automation IoT platform specific plugin?
 
 ## PoC 0: Smart Meter, Serial USB
 ### Get the hardware
