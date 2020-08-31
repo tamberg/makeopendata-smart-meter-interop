@@ -94,6 +94,7 @@ Proof of Concept (PoC) prototypes, sketched out below as step-by-step instructio
 * https://www.openhab.org/docs/
 * https://www.openhab.org/addons/
 * https://www.openhab.org/addons/bindings/mqtt/
+* https://github.com/openhab/openhab-addons
 * https://www.openhab.org/docs/developer/bindings/
 * https://www.openhab.org/docs/configuration/restdocs.html
 
