@@ -10,7 +10,7 @@ A [make.opendata.ch](https://make.opendata.ch/), [Energy Hackdays 2020](https://
 Hermann and [@tamberg](https://twitter.com/tamberg).
 
 ## Idea
-Provide a "universal" adapter from smart meters to home automation IoT platforms.
+Provide a "universal" adapter from smart meters to home automation / IoT platforms.
 
 <img src="../../blob/master/interop-gateway.png" width="540">
 
