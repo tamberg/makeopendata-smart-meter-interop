@@ -87,6 +87,9 @@ Proof of Concept (PoC) prototypes, sketched out below as step-by-step instructio
 * http://www.tamberg.org/fhnw/2019/hs/IoT07MessagingProtocols.pdf
 * http://www.tamberg.org/fhnw/2019/hs/IoT10RuleBasedIntegration.pdf
 
+### IoT platforms
+* https://thingsboard.io/smart-metering/
+
 ### Home automation
 * https://www.openhab.org/addons/
 * https://www.openhab.org/addons/bindings/mqtt/
