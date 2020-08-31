@@ -126,7 +126,7 @@ Proof of Concept (PoC) prototypes, sketched out below as step-by-step instructio
 * https://icube.ch/demo_projects/java/dlms_java_demo.zip (includes proprietary DLMS Library)
 * https://www.dlms.com/news-new-blue-book-and-green-book (Standard Specification)
 * https://www.dlms.com/
-* https://github.com/Gurux/Gurux.DLMS.cpp
+* https://github.com/Gurux/Gurux.DLMS.cpp (licensed under GPL v2.0)
 
 ### M-Bus
 * https://zeta-eng.ch/produkte/interfaces/zeta-usb-interfaces/m-bus-slave/
