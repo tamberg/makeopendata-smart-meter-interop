@@ -129,8 +129,10 @@ Proof of Concept (PoC) prototypes, sketched out below as step-by-step instructio
 * [https://icube.ch/DLMSSurvivalKit/dsk1.html](https://icube.ch/DLMSSurvivalKit/dsk1.html)
 * https://icube.ch/demo_projects.html
 * https://icube.ch/demo_projects/java/dlms_java_demo.zip (includes proprietary DLMS Library)
-* https://www.dlms.com/news-new-blue-book-and-green-book (Standard Specification)
 * https://www.dlms.com/
+* https://www.dlms.com/news-new-blue-book-and-green-book
+* https://www.dlms.com/files/Blue_Book_Edition_13-Excerpt.pdf (COSEM Interface Classes and OBIS Object Identification System)
+* https://www.dlms.com/files/Green_Book_Edition_9-Excerpt.pdf (DLMS/OSEM Architecture and Protocols)
 * https://github.com/Gurux/Gurux.DLMS.cpp (licensed under GPL v2.0)
 * https://github.com/roarfred/AmsToMqttBridge
 
