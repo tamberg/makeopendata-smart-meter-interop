@@ -136,12 +136,14 @@ Proof of Concept (PoC) prototypes, sketched out below as step-by-step instructio
 * https://github.com/Gurux/Gurux.DLMS.cpp (licensed under GPL v2.0)
 * https://github.com/roarfred/AmsToMqttBridge
 * https://github.com/roarfred/AmsToMqttBridge/tree/master/Electrical/HAN_ESP_TSS721
-* https://www.openmuc.org/m-bus/user-guide/
 
 ### M-Bus
 * https://zeta-eng.ch/produkte/interfaces/zeta-usb-interfaces/m-bus-slave/
 * https://zeta-eng.ch/fileadmin/zeta/images/PDF%20Dateien/ZETA_USB_Interfaces_-_Treiberinstallation.pdf (Serial via USB)
 * https://m-bus.com/documentation-wired/04-physical-layer
+* https://www.openmuc.org/m-bus/user-guide/
+* https://github.com/turbokongen/hass-AMS
+* https://www.hjemmeautomasjon.no/forums/topic/1982-lesing-av-ams-data-amshan-iot/?&page=77#comments
 
 ### Optical
 * https://forum.arduino.cc/index.php?topic=119247.0
