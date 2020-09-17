@@ -135,6 +135,8 @@ Proof of Concept (PoC) prototypes, sketched out below as step-by-step instructio
 * https://www.dlms.com/files/Green_Book_Edition_9-Excerpt.pdf (DLMS/OSEM Architecture and Protocols)
 * https://github.com/Gurux/Gurux.DLMS.cpp (licensed under GPL v2.0)
 * https://github.com/roarfred/AmsToMqttBridge
+* https://github.com/roarfred/AmsToMqttBridge/tree/master/Electrical/HAN_ESP_TSS721
+* https://www.openmuc.org/m-bus/user-guide/
 
 ### M-Bus
 * https://zeta-eng.ch/produkte/interfaces/zeta-usb-interfaces/m-bus-slave/
